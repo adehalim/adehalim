@@ -1,88 +1,73 @@
 <div align="center">
 
-  <!-- Dynamic Typing Header -->
-  <a href="https://github.com/adehalim">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Hi+there,+I'm+Ade+Halim+%F0%9F%91%8B;Fullstack+%26+Web+Explorer;Crafting+Code+%26+Solving+Problems" alt="Typing SVG" />
-  </a>
+<img src="./assets/workshop-hero.gif" width="1000" alt="Ade Halim's workshop: animated orbital paths, stars, and changing captions about web experiments, Arabic learning, and code.">
 
-  <p align="center">
-    <b>Software Engineering & Web Development Enthusiast</b> based in Padang, Indonesia 🇮🇩
-  </p>
+<br><br>
 
-  <!-- Social Badges -->
-  <p align="center">
-    <a href="https://twitter.com/Aadehalim_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-    <a href="https://adehalimalfajri.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:adehalim815@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+<p><strong>WEB EXPERIMENTS &nbsp; × &nbsp; ARABIC LEARNING &nbsp; × &nbsp; CREATIVE PLAY</strong></p>
+
+<p><a href="https://adehalimalfajri.vercel.app">Visit my portfolio</a> &nbsp; ◇ &nbsp; <a href="mailto:adehalim815@gmail.com">Say hello</a> &nbsp; ◇ &nbsp; <a href="https://twitter.com/Aadehalim_">Find me on X</a></p>
 
 </div>
 
----
+<br>
 
-### 🚀 About Me
+## Inside the workshop
 
-```yaml
-user: adehalim
-name: Ade Halim Alfajri
-role: Tech Explorer & Web Developer
-location: Padang, Indonesia
-interests: [Frontend, Backend, Modern Web Architecture, Clean Code]
-current_focus: Building scalable web applications & mastering TypeScript ecosystem
-motto: "Fail fast, debug faster, deploy with confidence."
-```
+I'm **Ade Halim Alfajri**, an Arabic language education student in Padang, Indonesia. I build personal sites, play with interfaces, and turn Arabic vocabulary into things you can click, match, and explore.
 
----
+Some projects start with a lesson. Others start with “what if I tried this?” This is where those experiments live.
 
-### 🛠️ Tech Stack & Arsenal
+### The toolkit
+
+![TypeScript](https://img.shields.io/badge/TypeScript-14243b?style=for-the-badge&logo=typescript&logoColor=78e8ec)
+![React](https://img.shields.io/badge/React-14243b?style=for-the-badge&logo=react&logoColor=78e8ec)
+![Next.js](https://img.shields.io/badge/Next.js-14243b?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-14243b?style=for-the-badge&logo=python&logoColor=f3ba74)
+![Linux](https://img.shields.io/badge/Linux-14243b?style=for-the-badge&logo=linux&logoColor=f3ba74)
+
+<br>
+
+<img src="./assets/signal.gif" width="1000" alt="An animated cyan, amber, and lilac wave divider.">
+
+## On the workbench
+
+### 01 / Kalam Playground &nbsp; · &nbsp; كَلَام
+
+**Arabic vocabulary, made interactive.**
+
+Word matching, letter exercises, and interactive reading. A learning playground that brings together my studies and my interest in building for the web.
+
+`React` `TypeScript` `Vite` &nbsp; · &nbsp; [Explore the project →](https://github.com/adehalim/kalam-Playground)
+
+<br>
+
+### 02 / Portofolio
+
+**A personal corner of the web.**
+
+My portfolio project built with Next.js and TypeScript. An ongoing place to experiment with layouts, interactions, and how I present my work.
+
+`Next.js` `TypeScript` &nbsp; · &nbsp; [View the repository →](https://github.com/adehalim/Portofolio) &nbsp; · &nbsp; [Visit portfolio →](https://adehalimalfajri.vercel.app)
+
+<br>
+
+### 03 / The rest of the experiments
+
+Smaller projects, learning exercises, and ideas that don't need a grand introduction.
+
+[Open the repository shelf →](https://github.com/adehalim?tab=repositories)
+
+<br>
+
+<img src="./assets/signal.gif" width="1000" alt="Animated wave divider.">
 
 <div align="center">
 
-#### Languages
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<h3>Have something interesting in mind?</h3>
 
-#### Frameworks & Libraries
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<p><a href="mailto:adehalim815@gmail.com">Let's talk</a></p>
 
-#### Tools & Environments
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<sub>FROM PADANG, WITH CURIOSITY. &nbsp; / &nbsp; ADEHALIM</sub>
 
-</div>
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adehalim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ade's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adehalim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adehalim&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
-
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/adehalim/adehalim/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  <sub>⚡ Crafted with precision by <a href="https://github.com/adehalim">Ade Halim</a></sub>
 </div>
